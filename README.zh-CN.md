@@ -14,7 +14,8 @@
 
 | 渠道 | 链接 |
 | --- | --- |
-| 🟢 **Google Play（推荐）** | [play.google.com/store/apps/details?id=cn.yzapp.androidcontainer](https://play.google.com/store/apps/details?id=cn.yzapp.androidcontainer) |
+| 🟢 **本项目修改版 （强烈推荐）**|https://github.com/laoguiuncle/Droid-Containers-laogui/releases |
+| 🟢 **Google Play（官方原版）** | [play.google.com/store/apps/details?id=cn.yzapp.androidcontainer](https://play.google.com/store/apps/details?id=cn.yzapp.androidcontainer) |
 | 🌐 官网（教程 / 隐私政策 / 反馈） | [https://191005.xyz/](https://191005.xyz/) |
 
 > 本仓库源码构建的 APK 功能完整但**不含内置模板库**；正式版随版本持续更新，还请以商店渠道为准。
@@ -161,6 +162,7 @@ proot 运行时二进制由 [`tool/fetch_proot_runtime.py`](tool/fetch_proot_run
 - [jinhan1414/android-docker-cli](https://github.com/jinhan1414/android-docker-cli) — Termux + proot 的 Docker 风格 CLI，提供产品语义与命令兼容矩阵
 - [termux/termux-app](https://github.com/termux/termux-app) — 终端模拟组件（Apache-2.0）
 - [proot](https://proot-me.github.io/) — 用户态文件系统隔离
+- (https://github.com/nesror/Droid-Containers/) — 原仓库地址
 
 ## 📄 许可
 
@@ -171,7 +173,29 @@ proot 运行时二进制由 [`tool/fetch_proot_runtime.py`](tool/fetch_proot_run
 
 ## 💬 反馈与支持
 
-- **GitHub Issues（推荐）**：[nesror/Droid-Containers/issues](https://github.com/nesror/Droid-Containers/issues)
+- **GitHub Issues（原版）**：[nesror/Droid-Containers/issues](https://github.com/nesror/Droid-Containers/issues)
 - **邮箱**：nestorgu@foxmail.com
+  
+原版问题请反馈以上原版地址，反馈问题时请附上：设备型号、Android 版本、镜像名称、容器日志输出（App 内日志页可查看），以及复现步骤，这样能更快定位问题。
 
-反馈问题时请附上：设备型号、Android 版本、镜像名称、容器日志输出（App 内日志页可查看），以及复现步骤，这样能更快定位问题。
+
+- - **GitHub Issues（laogui修改版）**：[laoguiuncle/Droid-Containers-laogui/issues](https://github.com/laoguiuncle/Droid-Containers-laogui/issues)
+- **邮箱**：2008woshiliang@163.com
+
+修改版问题请反馈以上修改版地址，反馈问题时请附上：设备型号、Android 版本、镜像名称、容器日志输出（App 内日志页可查看），以及复现步骤，这样能更快定位问题。
+
+## ☕ 为爱发电
+
+❤️ 本版未设置任何付款付费方式，下方二维码自愿打赏，为爱奉献，感谢支持！
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/fbc274d3-4fc5-4690-a166-17ec904f2c4d" width="280" alt="打赏二维码1"/></td>
+    <td><img src="https://github.com/user-attachments/assets/29e61fe1-6352-4562-8a9c-13c6b8e4592b" width="280" alt="打赏二维码2"/></td>
+  </tr>
+</table>
+
+
+
+
+

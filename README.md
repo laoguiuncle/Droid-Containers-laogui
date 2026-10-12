@@ -161,6 +161,7 @@ Verified end-to-end on a real device (arm64): pull image → create container �
 - [jinhan1414/android-docker-cli](https://github.com/jinhan1414/android-docker-cli) — Termux + proot Docker-style CLI; source of the product semantics and command compatibility matrix
 - [termux/termux-app](https://github.com/termux/termux-app) — terminal emulation components (Apache-2.0)
 - [proot](https://proot-me.github.io/) — user-space filesystem isolation
+- (https://github.com/nesror/Droid-Containers) — Old Repositories
 
 ## 📄 License
 
@@ -174,4 +175,22 @@ This repository's source is released under the [PolyForm Noncommercial 1.0.0](LI
 - **GitHub Issues (recommended)**: [nesror/Droid-Containers/issues](https://github.com/nesror/Droid-Containers/issues)
 - **Email**: nestorgu@foxmail.com
 
-When reporting an issue, please include: device model, Android version, image name, container log output (visible on the in-app log screen) and reproduction steps — it makes triage much faster.
+For issues with the original version, please report to the original repository above. When reporting, please attach: device model, Android version, image name, container log output (viewable in the App's log page), and reproduction steps — this helps us locate the problem faster.
+
+
+
+- **GitHub Issues (laogui modified)**: [laoguiuncle/Droid-Containers-laogui/issues](https://github.com/laoguiuncle/Droid-Containers-laogui/issues)
+- **Email**: 2008woshiliang@163.com
+
+For issues with the modified version, please report to the modified repository above. When reporting, please attach: device model, Android version, image name, container log output (viewable in the App's log page), and reproduction steps — this helps us locate the problem faster.
+
+
+## ☕ Powered by love
+❤️ This version has no paid features. Scan the QR codes below for voluntary tips — a gift of love. Thank you for your support!
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/fbc274d3-4fc5-4690-a166-17ec904f2c4d" width="280" alt="打赏二维码1"/></td>
+    <td><img src="https://github.com/user-attachments/assets/29e61fe1-6352-4562-8a9c-13c6b8e4592b" width="280" alt="打赏二维码2"/></td>
+  </tr>
+</table>
