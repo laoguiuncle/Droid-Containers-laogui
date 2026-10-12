@@ -186,7 +186,7 @@ proot 运行时二进制由 [`tool/fetch_proot_runtime.py`](tool/fetch_proot_run
 
 ## ☕ 为爱发电
 
-❤️ 本版未设置任何付款付费方式，下方二维码自愿打赏，为爱奉献，感谢支持！
+❤️ 本版未设置任何付款付费方式，下方二维码自愿打赏，为爱发电，感谢支持！
 
 <table>
   <tr>
